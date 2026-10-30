@@ -1,6 +1,11 @@
 # Nusantara Coffee Builtbyl
 
-saya ingin membuat sebuah landing page untuk sebuah Coffee Shop bernama “Kopi Nusantara” dengan nuansa coklat gelap dan krem. tambahkan hero section, tentang kami, testimoni pelanggan, tombol order via WhatsApp, dan footer.
+Sebuah landing page untuk Coffee Shop bernama “Kopi Nusantara” dengan nuansa coklat gelap dan cream. Landing page ini memuat:
+- hero section,
+- about us section,
+- testimoni pelanggan,
+- tombol order via WhatsApp, dan
+- footer.
 
 This project was built with [Lovable](https://lovable.dev).
 
